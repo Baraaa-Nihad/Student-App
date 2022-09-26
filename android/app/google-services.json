@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "802816386144",
+    "project_id": "studentapp-2df85",
+    "storage_bucket": "studentapp-2df85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802816386144:android:c7e30f9b0a27847d6d0f05",
+        "android_client_info": {
+          "package_name": "com.StudentACA.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802816386144-q2ea9bhc2bccgighftvsqo9464gobmrf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhFz2oMS4qx1jWxi5YCEsHhigC1u-_rUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802816386144-q2ea9bhc2bccgighftvsqo9464gobmrf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/917445705/android.file_picker.iml" filepath="$PROJECT_DIR$/.idea/modules/917445705/android.file_picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-731854792/android.flutter_inappwebview.iml" filepath="$PROJECT_DIR$/.idea/modules/-731854792/android.flutter_inappwebview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/764961401/android.flutter_plugin_android_lifecycle.iml" filepath="$PROJECT_DIR$/.idea/modules/764961401/android.flutter_plugin_android_lifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/132412645/android.open_file.iml" filepath="$PROJECT_DIR$/.idea/modules/132412645/android.open_file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-595882778/android.path_provider_android.iml" filepath="$PROJECT_DIR$/.idea/modules/-595882778/android.path_provider_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1247621742/android.sqflite.iml" filepath="$PROJECT_DIR$/.idea/modules/1247621742/android.sqflite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/379360719/android.url_launcher_android.iml" filepath="$PROJECT_DIR$/.idea/modules/379360719/android.url_launcher_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-249429444/android.video_player_android.iml" filepath="$PROJECT_DIR$/.idea/modules/-249429444/android.video_player_android.iml" />
+    </modules>
+  </component>
+</project>
